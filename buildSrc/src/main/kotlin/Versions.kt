@@ -60,9 +60,9 @@ object Versions {
 //    }
     
     object Bukkit {
-        const val minecraft = "26.1.2"
+        const val minecraft = "26.1.1"
         const val nms = "$minecraft-R0.1"
-        const val paperBuild = "26.1.2.build.60-stable"
+        const val paperBuild = "26.1.1.build.29-alpha"
         const val paper = paperBuild
         const val paperLib = "1.0.8"
         const val reflectionRemapper = "0.1.3"
